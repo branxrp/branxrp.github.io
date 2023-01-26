@@ -6,7 +6,7 @@
   </head>
   <body>
     <header>
-      <h1>My Personal Website</h1>
+      <h1>Brandon Horn</h1>
       <nav>
         <ul>
           <li><a href="#home">Home</a></li>
@@ -18,7 +18,7 @@
     </header>
     <main>
       <section id="home">
-        <h2>Welcome to my personal website</h2>
+        <h2>Welcome to my dome</h2>
         <p>Here you will find information about me and my interests, as well as my blog posts.</p>
       </section>
       <section id="about">
