@@ -1,10 +1,5 @@
-# Hamilton <!-- omit in toc -->
+# Mr B. Horn <!-- omit in toc -->
 
-A minimal and beautiful Jekyll theme best for writing and note-taking.
-
-The original purpose of this theme is to be a replacement of the default Jekyll theme -- [Minima](https://github.com/jekyll/minima). Hamilton is an enhancement of Minima but still, keep in minimal.
-
-Please check out the [demo](https://ngzhio.github.io/jekyll-theme-hamilton/).
 
 | Skins | Displays |
 | ----- | -------- |
