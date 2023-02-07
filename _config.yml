@@ -1,45 +1,26 @@
-title: Hamilton
+title: Mr Horn
 description: Discover the unique combination of law and technology through my eyes. As a BCom Law student at UNISA and a self-taught programmer, I share my passion for these fields on my personal website. Follow my academic and professional journey and take a look at my portfolio of web development and graphic design projects. Join me in exploring the limitless possibilities of merging legal expertise with technical skills.
-author: Shangzhi Huang
+author: Brandon Horn
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: brandonhorn127@@gmail.com
 
 plugins:
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
-  plugins:
   - jekyll-theme-hamilton
 
-paginate: 10
-
-# Uncomment the below line and set the tracking ID for enabling Google Analytics
-# 
-# google_analytics: 
-
-# Uncomment the below lines and set the Disqus shortname for enabling Disqus
-# 
-# disqus:
-
-# Jekyll
-# ======
 exclude:
   - scripts/
   - README.md
   - jekyll-theme-hamilton.gemspec
 
-# Jekyll SEO Tag (Optional)
-# =========================
 twitter:
-  username: ngzhio
+  username: earfquake_bhc
   card: summary
 logo: logo.png
 social:
-  name: Shangzhi Huang
+  name: Brandon Horn
   links:
     - https://twitter.com/ngzhio
     - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://www.linkedin.com/in/sir-horn/
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
