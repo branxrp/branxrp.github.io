@@ -9,6 +9,8 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
+  plugins:
+  - jekyll-theme-hamilton
 
 paginate: 10
 
